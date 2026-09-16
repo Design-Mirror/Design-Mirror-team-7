@@ -30,21 +30,21 @@ NEXORA-2K26
 
 ### College Name
 
-`________________________________________`
+Manikam Ramaswami college of arts and science.
 
 ### Team Name
 
-`________________________________________`
+`Vibe Coders`
 
 ### Team Members
 
 **Member 1**
 
-* Name: `________________________________`
+* Name: `R.Harish`
 
 **Member 2**
 
-* Name: `________________________________`
+* Name: `V.G.Sri Nithin Raghav`
 
 
 # About the Challenge
